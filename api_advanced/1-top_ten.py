@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Queries the Reddit API and prints the titles of the first 10 hot posts for a given subreddit.
+This module queries the Reddit API to retrieve and display the titles of the first 10 hot posts for a given subreddit.
+If the subreddit is invalid or has no posts, it prints "OK".
 """
 import requests
 
