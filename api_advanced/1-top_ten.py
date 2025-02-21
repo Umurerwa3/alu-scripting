@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-displays the titles of 10 hot posts listed for a subreddit
+Displays the titles of 10 hot posts listed for a subreddit
 """
 
 from requests import get
